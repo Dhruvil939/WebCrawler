@@ -1,7 +1,7 @@
 # Web Crawler README
 
 ## Group Members
-- Jose Santos(RUID: (225009670), Dhruvi)l Patel (RUID: 200006142)
+- Jose Santos(RUID: 225009670), Dhruvil Patel (RUID: 200006142), Almuatasam Asseadi (RUID: )
 
 ##Roles of group members : 
 - Murathan Saylan (Thread management, URL Queue, HTML Parsing, Depth control,Synchronization), Marcos Santana (Error handling), Dhruvil Patel (Logging)
